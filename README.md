@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanmay Jain
-- 👀 I’m interested in Android and Web Development
+- 👀 I’m interested in everything which is used in any kind of software development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on GitHub
 
