@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanmay Jain
-- 👀 I’m interested in everything which is used in any kind of software development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in everything which is used in any kind of software development. I am also interested in Data Analysis.
+- 🌱 I’m currently learning Web Development and Python
 - 💞️ I’m looking to collaborate on GitHub
 
 <!---
