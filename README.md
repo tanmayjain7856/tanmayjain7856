@@ -8,9 +8,9 @@
 
 <p align="center">
 
- <img src="https://badges.pufler.dev/visits/TanmayJain33/TanmayJain33">
- <img src="https://badges.pufler.dev/repos/TanmayJain33">
- <img src="https://badges.pufler.dev/commits/monthly/TanmayJain33">
+ <img src="https://badges.pufler.dev/visits/tanmayjain7856/tanmayjain7856">
+ <img src="https://badges.pufler.dev/repos/tanmayjain7856">
+ <img src="https://badges.pufler.dev/commits/monthly/tanmayjain7856">
 
 </p>
 
@@ -68,7 +68,7 @@
 <!-- Contribution Graph -->
 
 <h2 align="center"><em>My GitHub Stats</em><br><br>
-<img src="https://activity-graph.herokuapp.com/graph?username=TanmayJain33&theme=redical">
+<img src="https://activity-graph.herokuapp.com/graph?username=tanmayjain7856&theme=redical">
 </h2>
 
 <br>
@@ -76,17 +76,17 @@
 <p align = "center">
 
 <!-- Top Languages Used -->
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayJain33&show_icons=true&theme=tokyonight">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjain7856&show_icons=true&theme=tokyonight">
 
 <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TanmayJain33&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmayjain7856&show_icons=true&theme=tokyonight">
 
 </p>
 
 <!-- Streak Stats -->
 
 <p align = "center">
- <img  src="http://github-readme-streak-stats.herokuapp.com?user=TanmayJain33&theme=dark&date_format=j%20M%5B%20Y%5D">
+ <img  src="http://github-readme-streak-stats.herokuapp.com?user=tanmayjain7856&theme=dark&date_format=j%20M%5B%20Y%5D">
 </p>
 
 <!-- Social Icons -->
@@ -95,7 +95,7 @@
 
 <p align="center">
 
-<a href="mailto:tanmay.jain@crownstack.com">
+<a href="mailto:tanmayjain987@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <a href="https://www.linkedin.com/in/tanmay-jain-664a711b0/">
