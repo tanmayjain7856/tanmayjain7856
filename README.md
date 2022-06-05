@@ -17,7 +17,7 @@
 <!-- Introduction -->
 
 <p align="center">
-  <strong>I'm Tanmay from India, and I do content on Android and Web Development. I really enjoy learning languages like Kotlin, JavaScript and Python and frameworks like Bootstrap and React Native.</strong>
+  <strong>I'm Tanmay from India, and I do content on Android and Web Development. I really enjoy learning languages like Kotlin, JavaScript and Python and frameworks like Bootstrap and React Native. Now starting a journey in becoming a Data Scientist.</strong>
 </p>  
 
 
